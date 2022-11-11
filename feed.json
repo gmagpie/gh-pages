@@ -1,0 +1,88 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Gilded Magpie",
+    "description": "",
+    "home_page_url": "https://gmagpie.github.io/gh-pages",
+    "feed_url": "https://gmagpie.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "icon": "https://gmagpie.github.io/gh-pages/media/website/cropped-maggie-copy-2.jpg",
+    "author": {
+        "name": "blark"
+    },
+    "items": [
+        {
+            "id": "https://gmagpie.github.io/gh-pages/earrings.html",
+            "url": "https://gmagpie.github.io/gh-pages/earrings.html",
+            "title": "Earrings",
+            "image": "https://gmagpie.github.io/gh-pages/media/posts/6/20160611193736.jpg",
+            "author": {
+                "name": "blark"
+            },
+            "tags": [
+                   "jewellery"
+            ],
+            "date_published": "2022-11-11T13:10:03+00:00",
+            "date_modified": "2022-11-11T13:10:03+00:00"
+        },
+        {
+            "id": "https://gmagpie.github.io/gh-pages/anchor-bracelet.html",
+            "url": "https://gmagpie.github.io/gh-pages/anchor-bracelet.html",
+            "title": "Anchor bracelet",
+            "image": "https://gmagpie.github.io/gh-pages/media/posts/5/IMG_20170719_123556_998.jpg",
+            "author": {
+                "name": "blark"
+            },
+            "tags": [
+                   "silver",
+                   "jewellery"
+            ],
+            "date_published": "2022-11-11T13:09:14+00:00",
+            "date_modified": "2022-11-11T13:09:14+00:00"
+        },
+        {
+            "id": "https://gmagpie.github.io/gh-pages/fish-brooch.html",
+            "url": "https://gmagpie.github.io/gh-pages/fish-brooch.html",
+            "title": "Fish brooch",
+            "image": "https://gmagpie.github.io/gh-pages/media/posts/4/20171010_191148.jpg",
+            "author": {
+                "name": "blark"
+            },
+            "tags": [
+                   "silver",
+                   "jewellery"
+            ],
+            "date_published": "2022-11-11T13:08:31+00:00",
+            "date_modified": "2022-11-11T13:08:31+00:00"
+        },
+        {
+            "id": "https://gmagpie.github.io/gh-pages/axes-hammers-and-pinapples.html",
+            "url": "https://gmagpie.github.io/gh-pages/axes-hammers-and-pinapples.html",
+            "title": "Axes, hammers and pinapples",
+            "image": "https://gmagpie.github.io/gh-pages/media/posts/3/IMG_20170505_215036_270.jpg",
+            "author": {
+                "name": "blark"
+            },
+            "tags": [
+                   "silver",
+                   "jewellery"
+            ],
+            "date_published": "2022-11-11T13:07:37+00:00",
+            "date_modified": "2022-11-11T13:07:37+00:00"
+        },
+        {
+            "id": "https://gmagpie.github.io/gh-pages/brooch.html",
+            "url": "https://gmagpie.github.io/gh-pages/brooch.html",
+            "title": "Brooch",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://gmagpie.github.io/gh-pages/media/posts/2/20151022143234-2.jpg\" alt=\"\" width=\"650\" height=\"433\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://gmagpie.github.io/gh-pages/media/posts/2/responsive/20151022143234-2-xs.jpg 300w ,https://gmagpie.github.io/gh-pages/media/posts/2/responsive/20151022143234-2-sm.jpg 480w ,https://gmagpie.github.io/gh-pages/media/posts/2/responsive/20151022143234-2-md.jpg 768w ,https://gmagpie.github.io/gh-pages/media/posts/2/responsive/20151022143234-2-lg.jpg 1024w\"></figure>",
+            "image": "https://gmagpie.github.io/gh-pages/media/posts/2/20151022143234.jpg",
+            "author": {
+                "name": "blark"
+            },
+            "tags": [
+                   "silver"
+            ],
+            "date_published": "2022-11-11T12:20:12+00:00",
+            "date_modified": "2022-11-11T12:54:34+00:00"
+        }
+    ]
+}
