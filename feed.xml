@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Gilded Magpie</title>
-    <link href="https://gmagpie.github.io/gh-pages/feed.xml" rel="self" />
-    <link href="https://gmagpie.github.io/gh-pages" />
+    <link href="https://www.gildedmagpie.com/feed.xml" rel="self" />
+    <link href="https://www.gildedmagpie.com" />
     <updated>2022-11-11T13:10:03+00:00</updated>
     <author>
         <name>blark</name>
     </author>
-    <id>https://gmagpie.github.io/gh-pages</id>
+    <id>https://www.gildedmagpie.com</id>
 
     <entry>
         <title>Earrings</title>
         <author>
             <name>blark</name>
         </author>
-        <link href="https://gmagpie.github.io/gh-pages/earrings.html"/>
-        <id>https://gmagpie.github.io/gh-pages/earrings.html</id>
-        <media:content url="https://gmagpie.github.io/gh-pages/media/posts/6/20160611193736.jpg" medium="image" />
+        <link href="https://www.gildedmagpie.com/earrings.html"/>
+        <id>https://www.gildedmagpie.com/earrings.html</id>
+        <media:content url="https://www.gildedmagpie.com/media/posts/6/20160611193736.jpg" medium="image" />
             <category term="jewellery"/>
 
         <updated>2022-11-11T13:10:03+00:00</updated>
@@ -28,9 +28,9 @@
         <author>
             <name>blark</name>
         </author>
-        <link href="https://gmagpie.github.io/gh-pages/anchor-bracelet.html"/>
-        <id>https://gmagpie.github.io/gh-pages/anchor-bracelet.html</id>
-        <media:content url="https://gmagpie.github.io/gh-pages/media/posts/5/IMG_20170719_123556_998.jpg" medium="image" />
+        <link href="https://www.gildedmagpie.com/anchor-bracelet.html"/>
+        <id>https://www.gildedmagpie.com/anchor-bracelet.html</id>
+        <media:content url="https://www.gildedmagpie.com/media/posts/5/IMG_20170719_123556_998.jpg" medium="image" />
             <category term="silver"/>
             <category term="jewellery"/>
 
@@ -43,9 +43,9 @@
         <author>
             <name>blark</name>
         </author>
-        <link href="https://gmagpie.github.io/gh-pages/fish-brooch.html"/>
-        <id>https://gmagpie.github.io/gh-pages/fish-brooch.html</id>
-        <media:content url="https://gmagpie.github.io/gh-pages/media/posts/4/20171010_191148.jpg" medium="image" />
+        <link href="https://www.gildedmagpie.com/fish-brooch.html"/>
+        <id>https://www.gildedmagpie.com/fish-brooch.html</id>
+        <media:content url="https://www.gildedmagpie.com/media/posts/4/20171010_191148.jpg" medium="image" />
             <category term="silver"/>
             <category term="jewellery"/>
 
@@ -58,9 +58,9 @@
         <author>
             <name>blark</name>
         </author>
-        <link href="https://gmagpie.github.io/gh-pages/axes-hammers-and-pinapples.html"/>
-        <id>https://gmagpie.github.io/gh-pages/axes-hammers-and-pinapples.html</id>
-        <media:content url="https://gmagpie.github.io/gh-pages/media/posts/3/IMG_20170505_215036_270.jpg" medium="image" />
+        <link href="https://www.gildedmagpie.com/axes-hammers-and-pinapples.html"/>
+        <id>https://www.gildedmagpie.com/axes-hammers-and-pinapples.html</id>
+        <media:content url="https://www.gildedmagpie.com/media/posts/3/IMG_20170505_215036_270.jpg" medium="image" />
             <category term="silver"/>
             <category term="jewellery"/>
 
@@ -73,17 +73,17 @@
         <author>
             <name>blark</name>
         </author>
-        <link href="https://gmagpie.github.io/gh-pages/brooch.html"/>
-        <id>https://gmagpie.github.io/gh-pages/brooch.html</id>
-        <media:content url="https://gmagpie.github.io/gh-pages/media/posts/2/20151022143234.jpg" medium="image" />
+        <link href="https://www.gildedmagpie.com/brooch.html"/>
+        <id>https://www.gildedmagpie.com/brooch.html</id>
+        <media:content url="https://www.gildedmagpie.com/media/posts/2/20151022143234.jpg" medium="image" />
             <category term="silver"/>
 
         <updated>2022-11-11T12:54:34+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://gmagpie.github.io/gh-pages/media/posts/2/20151022143234.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://gmagpie.github.io/gh-pages/media/posts/2/20151022143234-2.jpg" alt="" width="650" height="433" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://gmagpie.github.io/gh-pages/media/posts/2/responsive/20151022143234-2-xs.jpg 300w ,https://gmagpie.github.io/gh-pages/media/posts/2/responsive/20151022143234-2-sm.jpg 480w ,https://gmagpie.github.io/gh-pages/media/posts/2/responsive/20151022143234-2-md.jpg 768w ,https://gmagpie.github.io/gh-pages/media/posts/2/responsive/20151022143234-2-lg.jpg 1024w"></figure>
+                    <p><img src="https://www.gildedmagpie.com/media/posts/2/20151022143234.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://www.gildedmagpie.com/media/posts/2/20151022143234-2.jpg" alt="" width="650" height="433" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.gildedmagpie.com/media/posts/2/responsive/20151022143234-2-xs.jpg 300w ,https://www.gildedmagpie.com/media/posts/2/responsive/20151022143234-2-sm.jpg 480w ,https://www.gildedmagpie.com/media/posts/2/responsive/20151022143234-2-md.jpg 768w ,https://www.gildedmagpie.com/media/posts/2/responsive/20151022143234-2-lg.jpg 1024w"></figure>
             ]]>
         </content>
     </entry>
