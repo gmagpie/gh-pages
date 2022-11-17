@@ -3,7 +3,7 @@
     <title>Gilded Magpie</title>
     <link href="https://www.gildedmagpie.com/feed.xml" rel="self" />
     <link href="https://www.gildedmagpie.com" />
-    <updated>2022-11-17T14:07:21+00:00</updated>
+    <updated>2022-11-17T14:08:13+00:00</updated>
     <author>
         <name>blark</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://www.gildedmagpie.com/shell-earrings/</id>
         <media:content url="https://www.gildedmagpie.com/media/posts/7/20171123_135940.jpg" medium="image" />
 
-        <updated>2022-11-17T14:07:21+00:00</updated>
+        <updated>2022-11-17T14:08:13+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.gildedmagpie.com/media/posts/7/20171123_135940.jpg" alt="" />
@@ -38,7 +38,7 @@
 <li>backed backing</li>
 </ul>
 <p class="align-right"><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.26562em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);">£395</span></p>
-<p class="align-right"><button class="snipcart-add-item" data-item-id="shell-earrings" data-item-price="85.50" data-item-url="/jewellery/shell-earrings" data-item-description="shell-earrings" data-item-name="shell-earrings"> Add to cart </button></p>
+<p class="align-right"><button class="snipcart-add-item" data-item-id="shell-earrings" data-item-price="85.50" data-item-url="https://www.gildedmagpie.com/shell-earrings/" data-item-description="shell-earrings" data-item-name="shell-earrings"> Add to cart </button></p>
             ]]>
         </content>
     </entry>
