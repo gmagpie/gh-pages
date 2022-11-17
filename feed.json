@@ -11,8 +11,8 @@
     },
     "items": [
         {
-            "id": "https://www.gildedmagpie.com/earrings.html",
-            "url": "https://www.gildedmagpie.com/earrings.html",
+            "id": "https://www.gildedmagpie.com/earrings/",
+            "url": "https://www.gildedmagpie.com/earrings/",
             "title": "Earrings",
             "image": "https://www.gildedmagpie.com/media/posts/6/20160611193736.jpg",
             "author": {
@@ -25,8 +25,8 @@
             "date_modified": "2022-11-11T13:10:03+00:00"
         },
         {
-            "id": "https://www.gildedmagpie.com/anchor-bracelet.html",
-            "url": "https://www.gildedmagpie.com/anchor-bracelet.html",
+            "id": "https://www.gildedmagpie.com/anchor-bracelet/",
+            "url": "https://www.gildedmagpie.com/anchor-bracelet/",
             "title": "Anchor bracelet",
             "image": "https://www.gildedmagpie.com/media/posts/5/IMG_20170719_123556_998.jpg",
             "author": {
@@ -40,8 +40,8 @@
             "date_modified": "2022-11-11T13:09:14+00:00"
         },
         {
-            "id": "https://www.gildedmagpie.com/fish-brooch.html",
-            "url": "https://www.gildedmagpie.com/fish-brooch.html",
+            "id": "https://www.gildedmagpie.com/fish-brooch/",
+            "url": "https://www.gildedmagpie.com/fish-brooch/",
             "title": "Fish brooch",
             "summary": "Add to cart",
             "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.gildedmagpie.com/media/posts/4/cropped-maggie.jpg\" alt=\"\" width=\"176\" height=\"240\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://www.gildedmagpie.com/media/posts/4/responsive/cropped-maggie-xs.jpg 300w ,https://www.gildedmagpie.com/media/posts/4/responsive/cropped-maggie-sm.jpg 480w ,https://www.gildedmagpie.com/media/posts/4/responsive/cropped-maggie-md.jpg 768w ,https://www.gildedmagpie.com/media/posts/4/responsive/cropped-maggie-lg.jpg 1024w\"></figure>\n<p><button class=\"snipcart-add-item\" data-item-id=\"fish-brooch\" data-item-price=\"100.50\" data-item-url=\"/jewellery/fish-brooch\" data-item-description=\"Fish brooch\" data-item-image=\"/assets/images/fish-brooch.jpg\" data-item-name=\"Fish Brooch\"> Add to cart </button></p>",
@@ -57,8 +57,8 @@
             "date_modified": "2022-11-17T12:19:02+00:00"
         },
         {
-            "id": "https://www.gildedmagpie.com/axes-hammers-and-pinapples.html",
-            "url": "https://www.gildedmagpie.com/axes-hammers-and-pinapples.html",
+            "id": "https://www.gildedmagpie.com/axes-hammers-and-pinapples/",
+            "url": "https://www.gildedmagpie.com/axes-hammers-and-pinapples/",
             "title": "Axes, hammers and pinapples",
             "image": "https://www.gildedmagpie.com/media/posts/3/IMG_20170505_215036_270.jpg",
             "author": {
@@ -72,8 +72,8 @@
             "date_modified": "2022-11-11T13:07:37+00:00"
         },
         {
-            "id": "https://www.gildedmagpie.com/brooch.html",
-            "url": "https://www.gildedmagpie.com/brooch.html",
+            "id": "https://www.gildedmagpie.com/brooch/",
+            "url": "https://www.gildedmagpie.com/brooch/",
             "title": "Brooch",
             "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.gildedmagpie.com/media/posts/2/20151022143234-2.jpg\" alt=\"\" width=\"650\" height=\"433\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://www.gildedmagpie.com/media/posts/2/responsive/20151022143234-2-xs.jpg 300w ,https://www.gildedmagpie.com/media/posts/2/responsive/20151022143234-2-sm.jpg 480w ,https://www.gildedmagpie.com/media/posts/2/responsive/20151022143234-2-md.jpg 768w ,https://www.gildedmagpie.com/media/posts/2/responsive/20151022143234-2-lg.jpg 1024w\"></figure>",
             "image": "https://www.gildedmagpie.com/media/posts/2/20151022143234.jpg",
