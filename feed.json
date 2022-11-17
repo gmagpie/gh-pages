@@ -43,6 +43,8 @@
             "id": "https://www.gildedmagpie.com/fish-brooch.html",
             "url": "https://www.gildedmagpie.com/fish-brooch.html",
             "title": "Fish brooch",
+            "summary": "Add to cart",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.gildedmagpie.com/media/posts/4/cropped-maggie.jpg\" alt=\"\" width=\"176\" height=\"240\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://www.gildedmagpie.com/media/posts/4/responsive/cropped-maggie-xs.jpg 300w ,https://www.gildedmagpie.com/media/posts/4/responsive/cropped-maggie-sm.jpg 480w ,https://www.gildedmagpie.com/media/posts/4/responsive/cropped-maggie-md.jpg 768w ,https://www.gildedmagpie.com/media/posts/4/responsive/cropped-maggie-lg.jpg 1024w\"></figure>\n<p><button class=\"snipcart-add-item\" data-item-id=\"fish-brooch\" data-item-price=\"100.50\" data-item-url=\"/jewellery/fish-brooch\" data-item-description=\"Fish brooch\" data-item-image=\"/assets/images/fish-brooch.jpg\" data-item-name=\"Fish Brooch\"> Add to cart </button></p>",
             "image": "https://www.gildedmagpie.com/media/posts/4/20171010_191148.jpg",
             "author": {
                 "name": "blark"
@@ -52,7 +54,7 @@
                    "jewellery"
             ],
             "date_published": "2022-11-11T13:08:31+00:00",
-            "date_modified": "2022-11-11T13:08:31+00:00"
+            "date_modified": "2022-11-17T12:19:02+00:00"
         },
         {
             "id": "https://www.gildedmagpie.com/axes-hammers-and-pinapples.html",
