@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://www.gildedmagpie.com/test-post/",
+            "url": "https://www.gildedmagpie.com/test-post/",
+            "title": "Shell earrings",
+            "summary": "£395 Buy now",
+            "content_html": "<p> </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.gildedmagpie.com/media/posts/7/gallery/20171123_135919.jpg\" data-size=\"650x1156\"><img loading=\"lazy\" src=\"https://www.gildedmagpie.com/media/posts/7/gallery/20171123_135919-thumbnail.jpg\" alt=\"\" width=\"650\" height=\"1156\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.gildedmagpie.com/media/posts/7/gallery/20171123_135940.jpg\" data-size=\"650x1156\"><img loading=\"lazy\" src=\"https://www.gildedmagpie.com/media/posts/7/gallery/20171123_135940-thumbnail.jpg\" alt=\"\" width=\"650\" height=\"1156\"></a></figure>\n</div></div>\n<ul>\n<li>sterling silver with enamel</li>\n<li>backed backing</li>\n</ul>\n<p class=\"align-right\"><span style=\"color: var(--headings-color); font-family: var(--font-base); font-size: 1.26562em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);\">£395</span></p>\n<p class=\"align-right\"><button data-item-id=\"2\" data-item-name=\"Shell Earrings\" data-item-price=\"10.00\" data-item-weight=\"10\" data-item-url=\"\" data-item-description=\"\">Buy now</button></p>",
+            "image": "https://www.gildedmagpie.com/media/posts/7/20171123_135940.jpg",
+            "author": {
+                "name": "blark"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-11-17T13:20:32+00:00",
+            "date_modified": "2022-11-17T13:57:10+00:00"
+        },
+        {
             "id": "https://www.gildedmagpie.com/earrings/",
             "url": "https://www.gildedmagpie.com/earrings/",
             "title": "Earrings",

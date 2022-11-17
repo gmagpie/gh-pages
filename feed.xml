@@ -3,12 +3,45 @@
     <title>Gilded Magpie</title>
     <link href="https://www.gildedmagpie.com/feed.xml" rel="self" />
     <link href="https://www.gildedmagpie.com" />
-    <updated>2022-11-17T12:19:02+00:00</updated>
+    <updated>2022-11-17T13:57:10+00:00</updated>
     <author>
         <name>blark</name>
     </author>
     <id>https://www.gildedmagpie.com</id>
 
+    <entry>
+        <title>Shell earrings</title>
+        <author>
+            <name>blark</name>
+        </author>
+        <link href="https://www.gildedmagpie.com/test-post/"/>
+        <id>https://www.gildedmagpie.com/test-post/</id>
+        <media:content url="https://www.gildedmagpie.com/media/posts/7/20171123_135940.jpg" medium="image" />
+
+        <updated>2022-11-17T13:57:10+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.gildedmagpie.com/media/posts/7/20171123_135940.jpg" alt="" />
+                    £395 Buy now
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.gildedmagpie.com/media/posts/7/20171123_135940.jpg" class="type:primaryImage" alt="" /></p>
+                <p> </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://www.gildedmagpie.com/media/posts/7/gallery/20171123_135919.jpg" data-size="650x1156"><img loading="lazy" src="https://www.gildedmagpie.com/media/posts/7/gallery/20171123_135919-thumbnail.jpg" alt="" width="650" height="1156"></a></figure>
+<figure class="gallery__item"><a href="https://www.gildedmagpie.com/media/posts/7/gallery/20171123_135940.jpg" data-size="650x1156"><img loading="lazy" src="https://www.gildedmagpie.com/media/posts/7/gallery/20171123_135940-thumbnail.jpg" alt="" width="650" height="1156"></a></figure>
+</div></div>
+<ul>
+<li>sterling silver with enamel</li>
+<li>backed backing</li>
+</ul>
+<p class="align-right"><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.26562em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);">£395</span></p>
+<p class="align-right"><button data-item-id="2" data-item-name="Shell Earrings" data-item-price="10.00" data-item-weight="10" data-item-url="" data-item-description="">Buy now</button></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Earrings</title>
         <author>
