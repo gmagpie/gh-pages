@@ -14,8 +14,7 @@
             "id": "https://www.gildedmagpie.com/shell-earrings/",
             "url": "https://www.gildedmagpie.com/shell-earrings/",
             "title": "Shell earrings",
-            "summary": "sterling silver with enamel backed backing £395 Add to cart",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.gildedmagpie.com/media/posts/7/gallery/20171123_135919.jpg\" data-size=\"650x1156\"><img loading=\"lazy\" src=\"https://www.gildedmagpie.com/media/posts/7/gallery/20171123_135919-thumbnail.jpg\" alt=\"\" width=\"650\" height=\"1156\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.gildedmagpie.com/media/posts/7/gallery/20171123_135940.jpg\" data-size=\"650x1156\"><img loading=\"lazy\" src=\"https://www.gildedmagpie.com/media/posts/7/gallery/20171123_135940-thumbnail.jpg\" alt=\"\" width=\"650\" height=\"1156\"></a></figure>\n</div></div>\n<ul>\n<li>sterling silver with enamel</li>\n<li>backed backing</li>\n</ul>\n<p class=\"align-right\"><span style=\"color: var(--headings-color); font-family: var(--font-base); font-size: 1.26562em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);\">£395</span></p>\n<p class=\"align-right\"><button class=\"snipcart-add-item\" data-item-id=\"shell-earrings\" data-item-price=\"85.50\" data-item-url=\"https://www.gildedmagpie.com/shell-earrings/\" data-item-description=\"shell-earrings\" data-item-name=\"shell-earrings\"> Add to cart </button></p>",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.gildedmagpie.com/media/posts/7/gallery/20171123_135919.jpg\" data-size=\"650x1156\"><img loading=\"lazy\" src=\"https://www.gildedmagpie.com/media/posts/7/gallery/20171123_135919-thumbnail.jpg\" alt=\"\" width=\"650\" height=\"1156\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.gildedmagpie.com/media/posts/7/gallery/20171123_135940.jpg\" data-size=\"650x1156\"><img loading=\"lazy\" src=\"https://www.gildedmagpie.com/media/posts/7/gallery/20171123_135940-thumbnail.jpg\" alt=\"\" width=\"650\" height=\"1156\"></a></figure>\n</div></div>",
             "image": "https://www.gildedmagpie.com/media/posts/7/20171123_135940.jpg",
             "author": {
                 "name": "blark"
@@ -23,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2022-11-17T13:20:32+00:00",
-            "date_modified": "2022-11-17T14:10:35+00:00"
+            "date_modified": "2022-11-18T13:26:52+00:00"
         },
         {
             "id": "https://www.gildedmagpie.com/earrings/",
@@ -58,8 +57,6 @@
             "id": "https://www.gildedmagpie.com/fish-brooch/",
             "url": "https://www.gildedmagpie.com/fish-brooch/",
             "title": "Fish brooch",
-            "summary": "Add to cart",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.gildedmagpie.com/media/posts/4/cropped-maggie.jpg\" alt=\"\" width=\"176\" height=\"240\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://www.gildedmagpie.com/media/posts/4/responsive/cropped-maggie-xs.jpg 300w ,https://www.gildedmagpie.com/media/posts/4/responsive/cropped-maggie-sm.jpg 480w ,https://www.gildedmagpie.com/media/posts/4/responsive/cropped-maggie-md.jpg 768w ,https://www.gildedmagpie.com/media/posts/4/responsive/cropped-maggie-lg.jpg 1024w\"></figure>\n<p><button class=\"snipcart-add-item\" data-item-id=\"fish-brooch\" data-item-price=\"100.50\" data-item-url=\"/jewellery/fish-brooch\" data-item-description=\"Fish brooch\" data-item-image=\"/assets/images/fish-brooch.jpg\" data-item-name=\"Fish Brooch\"> Add to cart </button></p>",
             "image": "https://www.gildedmagpie.com/media/posts/4/20171010_191148.jpg",
             "author": {
                 "name": "blark"
@@ -69,7 +66,7 @@
                    "jewellery"
             ],
             "date_published": "2022-11-11T13:08:31+00:00",
-            "date_modified": "2022-11-17T12:19:02+00:00"
+            "date_modified": "2022-11-18T13:27:09+00:00"
         },
         {
             "id": "https://www.gildedmagpie.com/axes-hammers-and-pinapples/",

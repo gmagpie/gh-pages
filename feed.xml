@@ -3,7 +3,7 @@
     <title>Gilded Magpie</title>
     <link href="https://www.gildedmagpie.com/feed.xml" rel="self" />
     <link href="https://www.gildedmagpie.com" />
-    <updated>2022-11-17T14:10:35+00:00</updated>
+    <updated>2022-11-18T13:27:09+00:00</updated>
     <author>
         <name>blark</name>
     </author>
@@ -18,13 +18,8 @@
         <id>https://www.gildedmagpie.com/shell-earrings/</id>
         <media:content url="https://www.gildedmagpie.com/media/posts/7/20171123_135940.jpg" medium="image" />
 
-        <updated>2022-11-17T14:10:35+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.gildedmagpie.com/media/posts/7/20171123_135940.jpg" alt="" />
-                    sterling silver with enamel backed backing £395 Add to cart
-                ]]>
-            </summary>
+        <updated>2022-11-18T13:26:52+00:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://www.gildedmagpie.com/media/posts/7/20171123_135940.jpg" class="type:primaryImage" alt="" /></p>
@@ -32,12 +27,6 @@
 <figure class="gallery__item"><a href="https://www.gildedmagpie.com/media/posts/7/gallery/20171123_135919.jpg" data-size="650x1156"><img loading="lazy" src="https://www.gildedmagpie.com/media/posts/7/gallery/20171123_135919-thumbnail.jpg" alt="" width="650" height="1156"></a></figure>
 <figure class="gallery__item"><a href="https://www.gildedmagpie.com/media/posts/7/gallery/20171123_135940.jpg" data-size="650x1156"><img loading="lazy" src="https://www.gildedmagpie.com/media/posts/7/gallery/20171123_135940-thumbnail.jpg" alt="" width="650" height="1156"></a></figure>
 </div></div>
-<ul>
-<li>sterling silver with enamel</li>
-<li>backed backing</li>
-</ul>
-<p class="align-right"><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.26562em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);">£395</span></p>
-<p class="align-right"><button class="snipcart-add-item" data-item-id="shell-earrings" data-item-price="85.50" data-item-url="https://www.gildedmagpie.com/shell-earrings/" data-item-description="shell-earrings" data-item-name="shell-earrings"> Add to cart </button></p>
             ]]>
         </content>
     </entry>
@@ -81,20 +70,9 @@
             <category term="silver"/>
             <category term="jewellery"/>
 
-        <updated>2022-11-17T12:19:02+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.gildedmagpie.com/media/posts/4/20171010_191148.jpg" alt="" />
-                    Add to cart
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.gildedmagpie.com/media/posts/4/20171010_191148.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://www.gildedmagpie.com/media/posts/4/cropped-maggie.jpg" alt="" width="176" height="240" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.gildedmagpie.com/media/posts/4/responsive/cropped-maggie-xs.jpg 300w ,https://www.gildedmagpie.com/media/posts/4/responsive/cropped-maggie-sm.jpg 480w ,https://www.gildedmagpie.com/media/posts/4/responsive/cropped-maggie-md.jpg 768w ,https://www.gildedmagpie.com/media/posts/4/responsive/cropped-maggie-lg.jpg 1024w"></figure>
-<p><button class="snipcart-add-item" data-item-id="fish-brooch" data-item-price="100.50" data-item-url="/jewellery/fish-brooch" data-item-description="Fish brooch" data-item-image="/assets/images/fish-brooch.jpg" data-item-name="Fish Brooch"> Add to cart </button></p>
-            ]]>
-        </content>
+        <updated>2022-11-18T13:27:09+00:00</updated>
+            <summary></summary>
+        <content></content>
     </entry>
     <entry>
         <title>Axes, hammers and pinapples</title>
