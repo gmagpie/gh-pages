@@ -3,12 +3,128 @@
     <title>Gilded Magpie</title>
     <link href="https://www.gildedmagpie.com/feed.xml" rel="self" />
     <link href="https://www.gildedmagpie.com" />
-    <updated>2022-11-18T13:27:09+00:00</updated>
+    <updated>2022-11-18T14:28:28+00:00</updated>
     <author>
         <name>blark</name>
     </author>
     <id>https://www.gildedmagpie.com</id>
 
+    <entry>
+        <title>Axes</title>
+        <author>
+            <name>blark</name>
+        </author>
+        <link href="https://www.gildedmagpie.com/axes/"/>
+        <id>https://www.gildedmagpie.com/axes/</id>
+        <media:content url="https://www.gildedmagpie.com/media/posts/13/IMG_20160727_123552-2.jpg" medium="image" />
+
+        <updated>2022-11-18T14:28:28+00:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.gildedmagpie.com/media/posts/13/IMG_20160727_123552-2.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://www.gildedmagpie.com/media/posts/13/IMG_20160727_123552.jpg" alt="" width="650" height="650" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.gildedmagpie.com/media/posts/13/responsive/IMG_20160727_123552-xs.jpg 300w ,https://www.gildedmagpie.com/media/posts/13/responsive/IMG_20160727_123552-sm.jpg 480w ,https://www.gildedmagpie.com/media/posts/13/responsive/IMG_20160727_123552-md.jpg 768w ,https://www.gildedmagpie.com/media/posts/13/responsive/IMG_20160727_123552-lg.jpg 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Axes and pinapples</title>
+        <author>
+            <name>blark</name>
+        </author>
+        <link href="https://www.gildedmagpie.com/axes-and-pinapples/"/>
+        <id>https://www.gildedmagpie.com/axes-and-pinapples/</id>
+        <media:content url="https://www.gildedmagpie.com/media/posts/12/IMG_20171113_074112_197.jpg" medium="image" />
+
+        <updated>2022-11-18T14:27:35+00:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.gildedmagpie.com/media/posts/12/IMG_20171113_074112_197.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://www.gildedmagpie.com/media/posts/12/gallery/IMG_20171113_074112_197.jpg" data-size="650x813"><img loading="lazy" src="https://www.gildedmagpie.com/media/posts/12/gallery/IMG_20171113_074112_197-thumbnail.jpg" alt="" width="650" height="813"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Spinner ring</title>
+        <author>
+            <name>blark</name>
+        </author>
+        <link href="https://www.gildedmagpie.com/spinner-ring/"/>
+        <id>https://www.gildedmagpie.com/spinner-ring/</id>
+        <media:content url="https://www.gildedmagpie.com/media/posts/11/20171014_172708_001-2.jpg" medium="image" />
+
+        <updated>2022-11-18T14:25:29+00:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.gildedmagpie.com/media/posts/11/20171014_172708_001-2.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://www.gildedmagpie.com/media/posts/11/gallery/20171014_172708_001.jpg" data-size="650x1156"><img loading="lazy" src="https://www.gildedmagpie.com/media/posts/11/gallery/20171014_172708_001-thumbnail.jpg" alt="" width="650" height="1156"></a></figure>
+<figure class="gallery__item"><a href="https://www.gildedmagpie.com/media/posts/11/gallery/20160302145928.jpg" data-size="650x433"><img loading="lazy" src="https://www.gildedmagpie.com/media/posts/11/gallery/20160302145928-thumbnail.jpg" alt="" width="650" height="433"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Brown earrings</title>
+        <author>
+            <name>blark</name>
+        </author>
+        <link href="https://www.gildedmagpie.com/brown-earrings/"/>
+        <id>https://www.gildedmagpie.com/brown-earrings/</id>
+        <media:content url="https://www.gildedmagpie.com/media/posts/10/20171004_132104-2.jpg" medium="image" />
+
+        <updated>2022-11-18T14:20:34+00:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.gildedmagpie.com/media/posts/10/20171004_132104-2.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://www.gildedmagpie.com/media/posts/10/20171004_132104.jpg" alt="" width="650" height="1156" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.gildedmagpie.com/media/posts/10/responsive/20171004_132104-xs.jpg 300w ,https://www.gildedmagpie.com/media/posts/10/responsive/20171004_132104-sm.jpg 480w ,https://www.gildedmagpie.com/media/posts/10/responsive/20171004_132104-md.jpg 768w ,https://www.gildedmagpie.com/media/posts/10/responsive/20171004_132104-lg.jpg 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Ring</title>
+        <author>
+            <name>blark</name>
+        </author>
+        <link href="https://www.gildedmagpie.com/ring/"/>
+        <id>https://www.gildedmagpie.com/ring/</id>
+        <media:content url="https://www.gildedmagpie.com/media/posts/9/20170721_211213-2.jpg" medium="image" />
+
+        <updated>2022-11-18T14:15:45+00:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.gildedmagpie.com/media/posts/9/20170721_211213-2.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://www.gildedmagpie.com/media/posts/9/20170721_211213.jpg" alt="" width="650" height="1156" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.gildedmagpie.com/media/posts/9/responsive/20170721_211213-xs.jpg 300w ,https://www.gildedmagpie.com/media/posts/9/responsive/20170721_211213-sm.jpg 480w ,https://www.gildedmagpie.com/media/posts/9/responsive/20170721_211213-md.jpg 768w ,https://www.gildedmagpie.com/media/posts/9/responsive/20170721_211213-lg.jpg 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Fish eye necklace</title>
+        <author>
+            <name>blark</name>
+        </author>
+        <link href="https://www.gildedmagpie.com/fish-eye-necklace/"/>
+        <id>https://www.gildedmagpie.com/fish-eye-necklace/</id>
+        <media:content url="https://www.gildedmagpie.com/media/posts/8/20170524_132756.jpg" medium="image" />
+
+        <updated>2022-11-18T14:13:31+00:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.gildedmagpie.com/media/posts/8/20170524_132756.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://www.gildedmagpie.com/media/posts/8/gallery/20170524_132756-2.jpg" data-size="650x1156"><img loading="lazy" src="https://www.gildedmagpie.com/media/posts/8/gallery/20170524_132756-2-thumbnail.jpg" alt="" width="650" height="1156"></a></figure>
+<figure class="gallery__item"><a href="https://www.gildedmagpie.com/media/posts/8/gallery/20170524_132838-2.jpg" data-size="650x1156"><img loading="lazy" src="https://www.gildedmagpie.com/media/posts/8/gallery/20170524_132838-2-thumbnail.jpg" alt="" width="650" height="1156"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Shell earrings</title>
         <author>
@@ -18,8 +134,13 @@
         <id>https://www.gildedmagpie.com/shell-earrings/</id>
         <media:content url="https://www.gildedmagpie.com/media/posts/7/20171123_135940.jpg" medium="image" />
 
-        <updated>2022-11-18T13:26:52+00:00</updated>
-            <summary></summary>
+        <updated>2022-11-18T14:03:52+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.gildedmagpie.com/media/posts/7/20171123_135940.jpg" alt="" />
+                    sterling silver with enamel backed backing £85.50 Add to cart
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://www.gildedmagpie.com/media/posts/7/20171123_135940.jpg" class="type:primaryImage" alt="" /></p>
@@ -27,6 +148,12 @@
 <figure class="gallery__item"><a href="https://www.gildedmagpie.com/media/posts/7/gallery/20171123_135919.jpg" data-size="650x1156"><img loading="lazy" src="https://www.gildedmagpie.com/media/posts/7/gallery/20171123_135919-thumbnail.jpg" alt="" width="650" height="1156"></a></figure>
 <figure class="gallery__item"><a href="https://www.gildedmagpie.com/media/posts/7/gallery/20171123_135940.jpg" data-size="650x1156"><img loading="lazy" src="https://www.gildedmagpie.com/media/posts/7/gallery/20171123_135940-thumbnail.jpg" alt="" width="650" height="1156"></a></figure>
 </div></div>
+<ul>
+<li>sterling silver with enamel</li>
+<li>backed backing</li>
+</ul>
+<p class="align-right">£85.50</p>
+<p class="align-right"><button class="snipcart-add-item" data-item-id="shell-earrings" data-item-price="85.50" data-item-url="https://www.gildedmagpie.com/shell-earrings/" data-item-description="Earrings in the shape of shells" data-item-name="Shell Earrings"> Add to cart </button></p>
             ]]>
         </content>
     </entry>
@@ -73,39 +200,5 @@
         <updated>2022-11-18T13:27:09+00:00</updated>
             <summary></summary>
         <content></content>
-    </entry>
-    <entry>
-        <title>Axes, hammers and pinapples</title>
-        <author>
-            <name>blark</name>
-        </author>
-        <link href="https://www.gildedmagpie.com/axes-hammers-and-pinapples/"/>
-        <id>https://www.gildedmagpie.com/axes-hammers-and-pinapples/</id>
-        <media:content url="https://www.gildedmagpie.com/media/posts/3/IMG_20170505_215036_270.jpg" medium="image" />
-            <category term="silver"/>
-            <category term="jewellery"/>
-
-        <updated>2022-11-11T13:07:37+00:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Brooch</title>
-        <author>
-            <name>blark</name>
-        </author>
-        <link href="https://www.gildedmagpie.com/brooch/"/>
-        <id>https://www.gildedmagpie.com/brooch/</id>
-        <media:content url="https://www.gildedmagpie.com/media/posts/2/20151022143234.jpg" medium="image" />
-            <category term="silver"/>
-
-        <updated>2022-11-11T12:54:34+00:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.gildedmagpie.com/media/posts/2/20151022143234.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://www.gildedmagpie.com/media/posts/2/20151022143234-2.jpg" alt="" width="650" height="433" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.gildedmagpie.com/media/posts/2/responsive/20151022143234-2-xs.jpg 300w ,https://www.gildedmagpie.com/media/posts/2/responsive/20151022143234-2-sm.jpg 480w ,https://www.gildedmagpie.com/media/posts/2/responsive/20151022143234-2-md.jpg 768w ,https://www.gildedmagpie.com/media/posts/2/responsive/20151022143234-2-lg.jpg 1024w"></figure>
-            ]]>
-        </content>
     </entry>
 </feed>
