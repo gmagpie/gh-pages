@@ -3,7 +3,7 @@
     <title>Gilded Magpie</title>
     <link href="https://www.gildedmagpie.com/feed.xml" rel="self" />
     <link href="https://www.gildedmagpie.com" />
-    <updated>2022-11-18T14:28:28+00:00</updated>
+    <updated>2022-11-18T14:45:39+00:00</updated>
     <author>
         <name>blark</name>
     </author>
@@ -134,11 +134,11 @@
         <id>https://www.gildedmagpie.com/shell-earrings/</id>
         <media:content url="https://www.gildedmagpie.com/media/posts/7/20171123_135940.jpg" medium="image" />
 
-        <updated>2022-11-18T14:03:52+00:00</updated>
+        <updated>2022-11-18T14:45:39+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.gildedmagpie.com/media/posts/7/20171123_135940.jpg" alt="" />
-                    sterling silver with enamel backed backing £85.50 Add to cart
+                    sterling silver with enamel backed backing
                 ]]>
             </summary>
         <content type="html">
@@ -152,8 +152,6 @@
 <li>sterling silver with enamel</li>
 <li>backed backing</li>
 </ul>
-<p class="align-right">£85.50</p>
-<p class="align-right"><button class="snipcart-add-item" data-item-id="shell-earrings" data-item-price="85.50" data-item-url="https://www.gildedmagpie.com/shell-earrings/" data-item-description="Earrings in the shape of shells" data-item-name="Shell Earrings"> Add to cart </button></p>
             ]]>
         </content>
     </entry>
